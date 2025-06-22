@@ -1,0 +1,1 @@
+O meu projeto e uma inspiraçao do jogo fleep bird, mas com algumas alteraçoes, como por exemplo alem de ser canos com obstaculos, sao resquicios de lixo, fazendo assim as pessoas refletirem sobre a poluiçao que fazem ao jogar lixo na rua.
